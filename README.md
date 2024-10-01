@@ -1,7 +1,8 @@
 # FR_BIAS
 Alan Turing Research on Face Recognition Bias
 
-<img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/Issue0.jpg" width="150" height="150" />
+<img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/Issue0.jpg" width="640" height="640" />
+<img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/Issue1.jpg" width="640" height="640" />
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1elztvJ-Wz1qsFMH2T-uc1y-V-7-3An7i)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2401.04257)
