@@ -1,12 +1,11 @@
-# FR_BIAS
+# Face Recognition Bias
 Alan Turing Research on Face Recognition Bias
 
 <img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/FRbias.jpg" width="640" height="320" />
 
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1elztvJ-Wz1qsFMH2T-uc1y-V-7-3An7i)
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2401.04257)
-[![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://livewarwickac-my.sharepoint.com/:f:/g/personal/u1873231_live_warwick_ac_uk/Eghl0WXMTJJJmHu4KEWIL8QBP0yyraEjpd6FYSOpqLMzAw?e=w7cvtw)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V2aAZe0Ljj3kjHAdcyXmBoPB9CUHWuYZ)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]()
+[![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)]()
 
 This is the implementation of the paper entitled _Detecting Face Synthesis Using a Concealed Fusion Model_ this repository is divided as follows:
 
