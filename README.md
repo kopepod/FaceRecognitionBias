@@ -1,7 +1,7 @@
 # FR_BIAS
 Alan Turing Research on Face Recognition Bias
 
-<img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/FRbias.jpg" width="640" height="420" />
+<img src="https://github.com/kopepod/FaceRecognitionBias/blob/main/EXTRAS/FRbias.jpg" width="640" height="320" />
 
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1elztvJ-Wz1qsFMH2T-uc1y-V-7-3An7i)
